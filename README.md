@@ -1,3 +1,3 @@
 # Chainlink-bootcamp
 
-Chain link bootcamp session 
+Chain link developer bootcamp
