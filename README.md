@@ -1,3 +1,3 @@
-# Chainlink-bootcamp
+# Chainlink Workshop
 
 Chain link developer bootcamp
